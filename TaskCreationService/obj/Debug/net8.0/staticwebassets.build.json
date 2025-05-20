@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aKAkz3wwwzt8Snm38FRITvSM+29K/J21SVYxAQyiFtQ=",
+  "Source": "TaskCreationService",
+  "BasePath": "_content/TaskCreationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

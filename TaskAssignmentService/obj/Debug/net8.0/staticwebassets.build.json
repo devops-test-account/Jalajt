@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "7x4mu1AE9nlR5WEg6ZBoSJPBhbu88gnXTHS3UjC8v6o=",
+  "Source": "TaskAssignmentService",
+  "BasePath": "_content/TaskAssignmentService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\jalajt\\Downloads\\TaskManagementSystem\\TaskManagementSystem\\TaskCreationService\\TaskCreationService.csproj",
+      "Version": 2,
+      "Source": "TaskCreationService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
